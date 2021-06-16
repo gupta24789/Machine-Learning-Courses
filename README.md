@@ -15,6 +15,6 @@
      - [Convolutional_Neural_Network](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-4_Convolutional_Neural_Network(dl.ai))
      - [Sequence_Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-5_Sequence_Models(deeplearning.ai))
      
- - [Data Science in Python]() by University of Michigan
- - [deeplearning]() by National Research University Higher School of Economics 
+ - [Applied Data Science with Python Specialization]() by University of Michigan
+
 
