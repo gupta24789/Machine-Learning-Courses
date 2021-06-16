@@ -1,11 +1,16 @@
-## Coursera Assignments
+## Description
 
-This repository is aimed to help Coursera learners who have difficulties in their learning process. The quiz and programming homework is belong to coursera. Please Do Not use them for any other purposes. This repository contains below courses:
+ - The repositiory will contains all the online courses done by me or interested in. 
+ - Order doesn't matter.
+ - Repo will contain the code along with certificates.
 
-## Courses
+## Content
 
  - [Machine Learning]() by Stanford University
  - [Data Science in Python]() by University of Michigan
+   - [a]()
+   - [b]()
+   - [c]()
  - [deeplearning.ai]() by Andrew Ng
  - [deeplearning]() by National Research University Higher School of Economics 
 
