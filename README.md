@@ -6,7 +6,7 @@
 
 ## Content
 
- - [Machine Learning]() by Stanford University
+ - [Machine Learning](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Machine%20Learning%20by%20Stanford%20University) by Stanford University
  - [Deep Learning Specialization (deeplearning.ai)]() by Andrew Ng
      - [Neural_Networks_Deep_Learning](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-1_Neural_Networks_Deep_Learning(dl.ai))
      - [Improving_Deep_Neural_Networks](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-2_Improving_Deep_Neural_Networks(dl.ai))
