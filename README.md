@@ -1,6 +1,6 @@
 ## Description
 
- - The repositiory will contains all the online courses done by me or interested in. 
+ - The repositiory will contain all the online courses done by me or interested in. 
  - Order doesn't matter.
  - Repo will contain the code along with certificates.
 
