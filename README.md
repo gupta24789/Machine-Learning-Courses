@@ -22,12 +22,6 @@
      - [Structuring_Machine_Learning_Projects](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-3_Structuring_Machine_Learning_Projects(dl.ai))
      - [Convolutional_Neural_Network](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-4_Convolutional_Neural_Network(dl.ai))
      - [Sequence_Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Deep%20Learning%20Specialization%20(deeplearning.ai)%20by%20AndrewNg/Course-5_Sequence_Models(deeplearning.ai))
-     
-- [Mathematics for Machine Learning]() by Imperical College London
-  - [Linear Algebra]()
-  - [Multivariate Calculus]()
-  - [PCA]()
-
 
 - [Advanced Machine Learning Specialization]()
   - [Introduction to Deep Learning]()
@@ -36,13 +30,7 @@
   - [Practical Reinforcement Learning]()
   - [Deep Learning in Computer Vision]()
   - [Natural Language Processing]()
-  - [Addressing Large Hadron Collider Challenges by Machine Learning]()
-
-- [Statistics with Python Specialization]()
-  - [Understanding and Visualizing Data with Python]()
-  - [Inferential Statistical Analysis with Python]()
-  - [Fitting Statistical Models to Data with Python]()
-  
+  - [Addressing Large Hadron Collider Challenges by Machine Learning]()  
   
   
 
