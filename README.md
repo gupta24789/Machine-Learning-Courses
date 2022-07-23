@@ -6,6 +6,8 @@
 
 ## Content
 
+ - CS224n: Natural Language Processing with Deep Learning
+ 
  - [Machine Learning](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Machine%20Learning%20by%20Stanford%20University) by Stanford University
  
  
