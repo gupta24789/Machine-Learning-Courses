@@ -32,9 +32,9 @@
 
 
 - [Natural Language Processing Specialization(deeplearning.ai)]()
-  - [Natural Language Processing with Classification and Vector Spaces]()
-  - [Natural Language Processing with Probabilistic Models]()
-  - [Natural Language Processing with Sequence Models]()
+  - [Natural Language Processing with Classification and Vector Spaces](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+  - [Natural Language Processing with Probabilistic Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Probabilistic%20Model)
+  - [Natural Language Processing with Sequence Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Sequence%20Model)
   - [Natural Language Processing with Attention Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Attension%20Model)
 
 
