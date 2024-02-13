@@ -30,16 +30,6 @@
   - [Natural Language Processing with Probabilistic Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Probabilistic%20Model)
   - [Natural Language Processing with Sequence Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Sequence%20Model)
   - [Natural Language Processing with Attention Models](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Natural%20Language%20Processing%20Specialization(deeplearning.ai)/Natural%20Language%20Processing%20with%20Attension%20Model)
-
-
-- [Advanced Machine Learning Specialization]()
-  - [Introduction to Deep Learning]()
-  - [How to Win a Data Science Competition: Learn from Top Kagglers]()
-  - [Bayesian Methods for Machine Learning]()
-  - [Practical Reinforcement Learning]()
-  - [Deep Learning in Computer Vision]()
-  - [Natural Language Processing]()
-  - [Addressing Large Hadron Collider Challenges by Machine Learning]()  
   
   
 
