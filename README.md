@@ -9,12 +9,6 @@
  - CS224n: Natural Language Processing with Deep Learning
  
  - [Machine Learning](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Machine%20Learning%20by%20Stanford%20University) by Stanford University
- 
- 
- - Machine Learning Specialization by deeplearning.ai Stanford
-   - Supervised Machine Learning: Regression and Classification
-   - Advanced Learning Algorithms
-   - Unsupervised Learning, Recommenders, Reinforcement Learning
   
  - [Applied Data Science with Python Specialization](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Applied%20Data%20Science%20with%20Python%20Specialization) by University of Michigan
    - [Intro to Data Science ](https://github.com/gupta24789/Machine-Learning-Courses/tree/main/Applied%20Data%20Science%20with%20Python%20Specialization/Course-1_intro_to_data%20science_in_python)
